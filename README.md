@@ -1,4 +1,4 @@
-# Light_model
+# Lightmodel Conversion
 Convert light model output from agroforestry.ugent.be
 
 ## Requirements
